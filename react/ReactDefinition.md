@@ -1,6 +1,6 @@
 # 라이브러리와 프레임워크 차이
 
-![alt text](images/libray_framework.png)
+![![alt text](images/libray_framework.png)](images/libray_framework.jpg)
 
 라이브러리 : 단일 문제 해결을 위한 도구<br>
 프레임워크 : 작업을 수행하기 위한 구조와 규칙을 제공하는 틀
