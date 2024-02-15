@@ -21,7 +21,7 @@
 
 [라라라](#react/#01.-정의.md)
 
-[a relative link](/react/#01.%20정의.md)
+[a relative link](/react/%2301.%20정의.md)
 
 [> 개념 및 정의](react/#01.-정의.md)<br>
 [> 컴포넌트](react/#02.-컴포넌트.md)<br>
